@@ -7,5 +7,7 @@
 
 有python语言基础,因为使用Spark-Graph 所以才刚开始接触scala. 希望能加入群.
 
+![](ans.png)
+
 
 
